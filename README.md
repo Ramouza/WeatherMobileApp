@@ -19,9 +19,8 @@
 ---
 
 ## 📸 Screenshots
-
-> _(Add screenshots here when app is deployed on a device or emulator)_
-
+**LIVE DEMO**
+https://drive.google.com/file/d/15yq5hauCNbE80_3reFE97XmWk3gHq1sX/view?usp=drivesdk 
 ---
 
 ## 🛠️ Tech Stack
